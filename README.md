@@ -31,7 +31,7 @@ I'm a Certified Scrum Master (CSM) with a passion for agile project management a
 - 📽️ **Video Demos**:
   - Here, you can't directly embed videos. So, consider creating GIFs or thumbnail images and link them to video demos on platforms like YouTube or Vimeo. You can use markdown for images and links. Example:
   
-    [![Scrum Demo](video_thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)
+    [![Scrum Demo](video_thumbnail.png)](https://www.youtube.com/shorts/lM9-WxMMndU)
 
 - 📫 **Contact**:
   - Feel free to connect with me on LinkedIn or Twitter to discuss agile, Scrum, or anything related!
