@@ -1,13 +1,15 @@
-<div align="center">
-  <img src="https://github.com/kbanr101/kbanr101/raw/main/Black%20%26%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro.gif" alt="tech" width="250">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-  
-</div>
+
 
 
 ###
 
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1670752162627080192/1698632205/1080x360)
+
+<div align="center">
+  <img src="https://github.com/kbanr101/kbanr101/raw/main/Black%20%26%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro.gif" alt="tech" width="250">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  
+</div>
 
 # Hi there! 👋 I'm Rodrigue Ban
 
@@ -95,6 +97,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ###
 
 <div align="center">
+  <img src="https://github.com/kbanr101/kbanr101/raw/main/giphy.gif" alt="another image" width="220">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
