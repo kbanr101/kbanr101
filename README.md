@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/kbanr101/kbanr101/raw/main/Black%20%26%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro.gif" alt="tech" width="250">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  
+</div>
 
 
 ###
@@ -23,10 +28,7 @@ I'm a Certified Scrum Master (CSM) with a passion for agile project management a
   - Agile Project Management Tools (Jira, Trello, etc.)
   - Software Developement Life Cycle (SDLC)
   - Project Life Cycle (PLC)
-<div align="center">
-<img src="https://github.com/kbanr101/kbanr101/raw/main/Black%20%26%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro.gif" alt="tech" width="550">
-</div>
-
+  - 
 - 📚 **Experience**:
   - Describe your relevant work experience and projects here.
   - You can also include a link to your LinkedIn profile for a more detailed work history.
@@ -97,7 +99,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </div>
 
 ###
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
