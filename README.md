@@ -1,5 +1,3 @@
-![tech](https://github.com/kbanr101/kbanr101/blob/main/Black%20%26%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro.gif)
-
 
 
 ###
@@ -25,6 +23,9 @@ I'm a Certified Scrum Master (CSM) with a passion for agile project management a
   - Agile Project Management Tools (Jira, Trello, etc.)
   - Software Developement Life Cycle (SDLC)
   - Project Life Cycle (PLC)
+<div align="center">
+<img src="https://github.com/kbanr101/kbanr101/raw/main/Black%20%26%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro.gif" alt="tech" width="550">
+</div>
 
 - 📚 **Experience**:
   - Describe your relevant work experience and projects here.
