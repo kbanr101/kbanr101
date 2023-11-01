@@ -11,17 +11,70 @@
   
 </div>
 
-# Hi there! 👋 I'm Rodrigue Ban
+# My Humble Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2)](https://www.facebook.com/yourfacebook)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourtwitter)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Profile-03EF62)](https://www.datacamp.com/profile/yourdatacamp)
 
-I'm a Certified Scrum Master (CSM) with a passion for agile project management and continuous improvement. I'm dedicated to helping teams deliver value more effectively and efficiently. Here's a bit about me:
+Hello! I'm Rodrigue Ban, a certified Scrum Master with a passion for Agile methodologies and a track record of successfully leading teams to deliver high-quality products. In this portfolio, I'll share my experience, achievements, and approach to Scrum.
 
-- 🎓 **Certifications**: 
-  - Certified Scrum Master (CSM) - Scrum Alliance
-  - Certified Jira Administrator - Atlassian
 
+## Skills
+
+| **Scrum Master Skills**           | **Development and Programming Skills** | **Data Analysis Skills** | **Version Control and Collaboration** | **Languages**   |
+|----------------------------------|----------------------------------------|-------------------------|-------------------------------------|-----------------|
+| - Scrum                           | - Python                                | - Data Analytics         | - Git                              | - French       |
+| - Kanban                          | - C++                                   | - Pandas                 | - GitHub                           | - English      |
+| - Jira                            | - JavaScript                            | - NumPy                  |                                     |               |
+| - Trello                          | - HTML                                  | - SQL                    |                                     |               |
+| - Confluence                      | - CSS                                   |                         |                                     |               |
+|                                  | - Bootstrap                             |                         |                                     |               |
+
+## Certification and Education
+- Certified ScrumMaster (CSM)
+- Bachelor of Science in Computer Science, XYZ University
+
+## Professional Summary
+I have over 5 years of experience in Scrum Master roles, working with cross-functional teams to deliver software products on time and within budget. I am highly skilled in Scrum, Kanban, and Agile methodologies, and I excel in facilitating daily stand-up meetings, sprint planning, and retrospectives. My strong communication and conflict resolution abilities enable me to foster a collaborative and high-performing team environment.
+
+## Case Studies
+
+### Project 1: Agile Transformation at Company X
+
+- **Company:** Company X
+- **Duration:** January 2020 - December 2020
+- **Role:** Scrum Master
+
+**Key Achievements:**
+
+- Led the Agile transformation of a 10-member development team, resulting in a 30% increase in project velocity and a 20% reduction in defects.
+- Implemented Scrum and Kanban practices, including sprint planning, daily stand-ups, and backlog grooming, resulting in improved transparency and collaboration.
+- Coordinated with stakeholders and product owners to prioritize and refine the product backlog, leading to better alignment with business goals.
+
+### Project 2: Launch of Mobile App at Startup Y
+
+- **Company:** Startup Y
+- **Duration:** March 2019 - September 2019
+- **Role:** Scrum Master
+
+**Key Achievements:**
+
+- Guided a cross-functional team of designers, developers, and QA testers to launch a mobile app ahead of schedule, achieving a 4.5-star rating in app stores.
+- Organized daily stand-up meetings, sprint planning sessions, and retrospectives to improve team productivity and identify areas for continuous improvement.
+- Collaborated with the product owner to prioritize and adapt to changing requirements, resulting in a flexible and responsive development process.
+
+## Blog Posts and Articles
+
+- [**Blog Post:** "The Art of Agile Retrospectives: A Scrum Master's Guide"](Insert Link)
+- [**Article:** "Scrum vs. Kanban: Choosing the Right Agile Methodology"](Insert Link)
+
+## References and Recommendations
+
+**References:**
+
+- Jane Doe, Product Owner at Company X
 - 🌱 **Skills**:
   - Scrum and Agile Methodologies
   - Sprint Planning and Backlog Refinement
