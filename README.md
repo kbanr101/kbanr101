@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2)](https://www.facebook.com/yourfacebook)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourtwitter)
-[![DataCamp](https://img.shields.io/badge/DataCamp-Profile-03EF62)](https://www.datacamp.com/profile/yourdatacamp)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Profile-03EF62)](https://www.datacamp.com/portfolio/rodriguekameniban)
 
 Hello! I'm Rodrigue Ban, a certified Scrum Master with a passion for Agile methodologies and a track record of successfully leading teams to deliver high-quality products. In this portfolio, I'll share my experience, achievements, and approach to Scrum.
 
