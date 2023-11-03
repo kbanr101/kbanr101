@@ -33,19 +33,20 @@ Hello! I'm Rodrigue Ban, a certified Scrum Master with a passion for Agile metho
 |                                  | - Bootstrap                             |                         |                                     |               |
 
 ## Certification and Education
-- Certified ScrumMaster (CSM)
-- Bachelor of Science in Computer Science, XYZ University
-
+- Certified Scrum Master (CSM) | Scrum Alliance | 10/2023
+- Bachelor of Science in Computer Science | Portland Community College | 12/2024
+- Bachelor of Art in Business Administration & Management | 10/2013
+  
 ## Professional Summary
-I have over 5 years of experience in Scrum Master roles, working with cross-functional teams to deliver software products on time and within budget. I am highly skilled in Scrum, Kanban, and Agile methodologies, and I excel in facilitating daily stand-up meetings, sprint planning, and retrospectives. My strong communication and conflict resolution abilities enable me to foster a collaborative and high-performing team environment.
+I have over 6 years of experience in Scrum Master roles, working with cross-functional teams to deliver software products on time and within budget. I am highly skilled in Scrum, Kanban, and Agile methodologies, and I excel in facilitating daily stand-up meetings, sprint planning, and retrospectives. My strong communication and conflict resolution abilities enable me to foster a collaborative and high-performing team environment.
 
 ## Case Studies
 
-### Project 1: Agile Transformation at Company X
+### Project 1: GameArt
 
-- **Company:** Company X
-- **Duration:** January 2020 - December 2020
-- **Role:** Scrum Master
+- **Company:** Amed Biotech
+- **Duration:** Febuary 2014 - January 201
+- **Role:** Technical Scrum Master
 
 **Key Achievements:**
 
@@ -53,11 +54,11 @@ I have over 5 years of experience in Scrum Master roles, working with cross-func
 - Implemented Scrum and Kanban practices, including sprint planning, daily stand-ups, and backlog grooming, resulting in improved transparency and collaboration.
 - Coordinated with stakeholders and product owners to prioritize and refine the product backlog, leading to better alignment with business goals.
 
-### Project 2: Launch of Mobile App at Startup Y
+### Project 2: POS_GAB
 
-- **Company:** Startup Y
-- **Duration:** March 2019 - September 2019
-- **Role:** Scrum Master
+- **Company:** Amed Biotech
+- **Duration:** Febuaray 2019 - Novenber 2020
+- **Role:** Technical Scrum Master
 
 **Key Achievements:**
 
@@ -75,34 +76,6 @@ I have over 5 years of experience in Scrum Master roles, working with cross-func
 **References:**
 
 - Jane Doe, Product Owner at Company X
-- 🌱 **Skills**:
-  - Scrum and Agile Methodologies
-  - Sprint Planning and Backlog Refinement
-  - User Story Mapping
-  - Daily Standups and Retrospectives
-  - Agile Project Management Tools (Jira, Trello, etc.)
-  - Software Developement Life Cycle (SDLC)
-  - Project Life Cycle (PLC)
-  - 
-- 📚 **Experience**:
-  - Describe your relevant work experience and projects here.
-  - You can also include a link to your LinkedIn profile for a more detailed work history.
-
-- 📽️ **Video Demos**:
-  - Here, you can't directly embed videos. So, consider creating GIFs or thumbnail images and link them to video demos on platforms like YouTube or Vimeo. You can use markdown for images and links. Example:
-  
-    [![Scrum Demo](video_thumbnail.png)](https://www.youtube.com/shorts/lM9-WxMMndU)
-
-- 📫 **Contact**:
-  - Feel free to connect with me on LinkedIn or Twitter to discuss agile, Scrum, or anything related!
-
-📢 Let's collaborate and make the world of agile better, one sprint at a time. Thanks for visiting my GitHub!
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 Any Scrum Master Related Work? Please reach out, [email](mailto:banjobaplication@gmail.com):)
-- 💬 Feel free to ask me about anything, i am happy to help; :)
 
 **languages and tools:**  
 
@@ -129,7 +102,8 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+- 💼 Any Scrum Master Related Work? Please reach out, [email](mailto:banjobaplication@gmail.com):)
+- 💬 Feel free to ask me about anything, i am happy to help; :)
 if you like to support my continuos improvement initiative? Then consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/kbanr101q" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
