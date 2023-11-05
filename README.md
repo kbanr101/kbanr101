@@ -68,14 +68,16 @@ I have over 6 years of experience in Scrum Master roles, working with cross-func
 
 ## Blog Posts and Articles
 
-- [**Blog Post:** "The Art of Agile Retrospectives: A Scrum Master's Guide"](Insert Link)
-- [**Article:** "Scrum vs. Kanban: Choosing the Right Agile Methodology"](Insert Link)
+- [**Blog Post:** "The Art of Agile Retrospectives: A Scrum Master's Guide"](https://www.banbizkartel.com/post/hotel-vs-vacation-rentals-choosing-the-perfect-accommodation-for-your-getaway)
+- [**Article:** "Scrum vs. Kanban: Choosing the Right Agile Methodology"](https://www.banbizkartel.com/post/hotel-vs-vacation-rentals-choosing-the-perfect-accommodation-for-your-getaway)
 
 ## References and Recommendations
 
 **References:**
 
-- Jane Doe, Product Owner at Company X
+- Arthur Lens, Product Owner @ ArenaNet LLC
+- Dominique Sinclaire @ ArenaNet LLC
+- Patrick Zoe  @ Amed Biotech
 
 **languages and tools:**  
 
@@ -94,10 +96,10 @@ I have over 6 years of experience in Scrum Master roles, working with cross-func
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 53 mins    ███████████████▓░░░░░░░░░   63.21 %
-TypeScript   56 mins         ███████▓░░░░░░░░░░░░░░░░░   31.14 %
-Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+JavaScript   3 hr 53 mins    ███████████████▓░░░░░░░░░   63.21 %
+TypeScript  2 hr 56 mins         ███████▓░░░░░░░░░░░░░░░░░   31.14 %
+Markdown     2 hr 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+JSON         2 hr 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
