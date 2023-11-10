@@ -38,14 +38,36 @@ Hello! I'm Rodrigue Ban, a certified Scrum Master with a passion for Agile metho
 - Bachelor of Art in Business Administration & Management | 10/2013
   
 ## Professional Summary
-I have over 6 years of experience in Scrum Master roles, working with cross-functional teams to deliver software products on time and within budget. I am highly skilled in Scrum, Kanban, and Agile methodologies, and I excel in facilitating daily stand-up meetings, sprint planning, and retrospectives. My strong communication and conflict resolution abilities enable me to foster a collaborative and high-performing team environment.
+I have over 8 years of experience in Scrum Master roles, working with cross-functional teams to deliver software products on time and within budget. I am highly skilled in Scrum, Kanban, and Agile methodologies, and I excel in facilitating daily stand-up meetings, sprint planning, and retrospectives. My strong communication and conflict resolution abilities enable me to foster a collaborative and high-performing team environment.
+
+## Current Job
+
+### Role: Senior Scrum Master
+- **Company:** ArenaNet LLC
+- **Duration:** Febuary 2022 - Present
+
+**Key Achievements:**
+- Created dashboards using JIRA, Confluence, Trello, to track project progress Championed Agile methodologies, and resulted 25% improvement in project delivery times
+- Led Agile ceremonies, enhanced team's adherence to Scrum values, and boosted productivity by 20%
+- Drove the "GameArt" project, created top-tier casino games that increased company revenue by 15%
+- Optimized project monitoring using Atlassian tools to reduce tracking discrepancies by 30%
+- Pioneered the "POS-GAB" project and collaborated with Square System and NTSOFT USA to innovate in the Electronic Golf Cars domain
+- Facilitated inter-departmental strategic meetings that enhanced product-market fit by 40%
+- Cultivated a positive work environment and reduced team turnover rate by 50%
+- Trained 10+ Product Owners in Agile principles and led a more streamlined backlog process
+- Synchronized with Scrum Masters across teams and established a unified Agile approach
+- Implemented safeguards against distraction and ensured 95% on-time delivery rate for sprints
+
+
+  
+
 
 ## Case Studies
 
 ### Project 1: GameArt
 
 - **Company:** Amed Biotech
-- **Duration:** Febuary 2014 - January 201
+- **Duration:** December 2019 - January 2022
 - **Role:** Technical Scrum Master
 
 **Key Achievements:**
@@ -57,7 +79,7 @@ I have over 6 years of experience in Scrum Master roles, working with cross-func
 ### Project 2: POS_GAB
 
 - **Company:** Amed Biotech
-- **Duration:** Febuaray 2019 - Novenber 2020
+- **Duration:** March 2014 - Novenber 2019
 - **Role:** Technical Scrum Master
 
 **Key Achievements:**
