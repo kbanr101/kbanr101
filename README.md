@@ -23,14 +23,22 @@ Hello! I'm Rodrigue Ban, a certified Scrum Master with a passion for Agile metho
 
 ## Skills
 
-| **Scrum Master Skills**           | **Development and Programming Skills** | **Data Analysis Skills** | **Version Control and Collaboration** | **Languages**   |
-|----------------------------------|----------------------------------------|-------------------------|-------------------------------------|-----------------|
-| - Scrum                           | - Python                                | - Data Analytics         | - Git                              | - French       |
-| - Kanban                          | - C++                                   | - Pandas                 | - GitHub                           | - English      |
-| - Jira                            | - JavaScript                            | - NumPy                  |                                     |               |
-| - Trello                          | - HTML                                  | - SQL                    |                                     |               |
-| - Confluence                      | - CSS                                   |                         |                                     |               |
-|                                  | - Bootstrap                             |                         |                                     |               |
+| **Scrum Master Skills**| **Date Analysis & Programming Skills**| **Microsoft Office Suite** | **Virtual Communication Tools** | **Languages**| **SDLC Tools**
+|------------------------|--------------------------------------|------------------------------|---------------------------------|------------|---------------------|
+| - Agile                | - Python                             | - Word                       | - Zoom                          | - French   | - Jira
+| - Scrum                | - C++                                | - Power Point                | - Skype                         | - English  | - Scrum
+| - Jira                 | - JavaScript                         | - Outlook                    | - Slack                         |            | - Trello
+| - Trello               | - HTML                               | - Excel                      | - Google Hangout                |            | - Kanban
+| - Confluence           | - CSS                                | - Access                     | - Microsoft Teams               |            | - Azure
+|                        | - Bootstrap                          |                              |                                 |            | - Rally
+|                        | - React                              |                              |                                 |            | - AWS
+|                        | - Pandas                             |                              |                                 |            | 
+|                        | - Numpy                              |                              |                                 |            | 
+|                        | - API
+|                        | - Git
+|                        | - GitHub
+|                        | - SQL
+
 
 ## Certification and Education
 - Certified Scrum Master (CSM) | Scrum Alliance | 10/2023
