@@ -27,15 +27,15 @@ Hello! I'm Rodrigue Ban, a certified Scrum Master with a passion for Agile metho
 |------------------------|--------------------------------------|------------------------------|---------------------------------|------------|---------------------|
 | - Agile                | - Python                             | - Word                       | - Zoom                          | - French   | - Jira
 | - Scrum                | - C++                                | - Power Point                | - Skype                         | - English  | - Scrum
-| - Jira                 | - JavaScript                         | - Outlook                    | - Slack                         |            | - Trello
-| - Trello               | - HTML                               | - Excel                      | - Google Hangout                |            | - Kanban
-| - Confluence           | - CSS                                | - Access                     | - Microsoft Teams               |            | - Azure
-|                        | - Bootstrap                          |                              |                                 |            | - Rally
-|                        | - React                              |                              |                                 |            | - AWS
-|                        | - Pandas                             |                              |                                 |            | 
-|                        | - Numpy                              |                              |                                 |            | 
-|                        | - API
-|                        | - Git
+| - Servant Leader       | - JavaScript                         | - Outlook                    | - Slack                         |            | - Trello
+| - Facilitator          | - HTML                               | - Excel                      | - Google Hangout                |            | - Kanban
+| - Coaching             | - CSS                                | - Access                     | - Microsoft Teams               |            | - Azure
+| - Mentoring            | - Bootstrap                          |                              |                                 |            | - Rally
+| - Impediment Removal   | - React                              |                              |                                 |            | - AWS
+| - Pair Programing      | - Pandas                             |                              |                                 |            | 
+| - Test Authomation     | - Numpy                              |                              |                                 |            | 
+| - Conflict Resolution  | - API
+| - Stackholder Management| - Git
 |                        | - GitHub
 |                        | - SQL
 
