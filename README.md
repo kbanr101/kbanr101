@@ -23,21 +23,17 @@ Hello! I'm Rodrigue Ban, a certified Scrum Master with a passion for Agile metho
 
 ## Skills
 
-| **Scrum Master Skills**| **Date Analysis & Programming Skills**| **Microsoft Office Suite** | **Virtual Communication Tools** | **Languages**| **SDLC Tools**
-|------------------------|--------------------------------------|------------------------------|---------------------------------|------------|---------------------|
-| - Agile                | - Python                             | - Word                       | - Zoom                          | - French   | - Jira
-| - Scrum                | - C++                                | - Power Point                | - Skype                         | - English  | - Scrum
-| - Servant Leader       | - JavaScript                         | - Outlook                    | - Slack                         |            | - Trello
-| - Facilitator          | - HTML                               | - Excel                      | - Google Hangout                |            | - Kanban
-| - Coaching             | - CSS                                | - Access                     | - Microsoft Teams               |            | - Azure
-| - Mentoring            | - Bootstrap                          |                              |                                 |            | - Rally
-| - Impediment Removal   | - React                              |                              |                                 |            | - AWS
-| - Pair Programing      | - Pandas                             |                              |                                 |            | 
-| - Test Authomation     | - Numpy                              |                              |                                 |            | 
-| - Conflict Resolution  | - API
-| - Stackholder Management| - Git
-|                        | - GitHub
-|                        | - SQL
+| **Scrum Master Skills**| **Date Analysis & Programming Skills**| **Microsoft Office Suite** | **Virtual Communication Tools** | **Languages**|
+|------------------------|--------------------------------------|------------------------------|---------------------------------|------------|
+| - Agile                | - Python                             | - Word                       | - Zoom                          | - French 
+| - Scrum                | - C++                                | - Power Point                | - Skype                         | - English
+| - Servant Leader       | - JavaScript                         | - Outlook                    | - Slack                         | - Jira 
+| - Facilitator          | - HTML                               | - Excel                      | - Google Hangout                | - Scrum 
+| - Coaching             | - CSS                                | - Access                     | - Microsoft Teams               | - Trello   
+| - Mentoring            | - Bootstrap                          | - SQL                        | - GitHUb                        | - Kanban   
+| - Impediment Removal   | - React                              | - Rally                      | - AWS                           | - Azure           
+| - Pair Programing      | - Pandas                             | - Git                        | - API                           | - Stakeholder Management
+| - Test Authomation     | - Numpy                              | - Conflict Resolution        | - Technical Projects            | - Agile Development
 
 
 ## Certification and Education
@@ -75,8 +71,8 @@ I have over 8 years of experience in Scrum Master roles, working with cross-func
 ### Project 1: GameArt
 
 - **Company:** Amed Biotech
-- **Duration:** December 2019 - January 2022
-- **Role:** Technical Scrum Master
+- **Duration:** December 2015 - July 2019
+- **Role:** Scrum Master
 
 **Key Achievements:**
 
@@ -87,8 +83,8 @@ I have over 8 years of experience in Scrum Master roles, working with cross-func
 ### Project 2: POS_GAB
 
 - **Company:** Amed Biotech
-- **Duration:** March 2014 - Novenber 2019
-- **Role:** Technical Scrum Master
+- **Duration:** March 2014 - Novenber 2015
+- **Role:** Junior Scrum Master
 
 **Key Achievements:**
 
