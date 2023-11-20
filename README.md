@@ -37,7 +37,7 @@ Hello! I'm Rodrigue Ban, a certified Scrum Master with a passion for Agile metho
 
 
 ## Certification and Education
-- Certified Scrum Master (CSM) | Scrum Alliance | 10/2023
+- Certified Scrum Master (CSM) | Scrum Alliance 
 - Bachelor of Science in Computer Science | Portland Community College | 12/2024
 - Bachelor of Art in Business Administration & Management | 10/2013
   
