@@ -51,20 +51,16 @@ I have over 8 years of experience in Scrum Master roles, working with cross-func
 - **Duration:** Febuary 2022 - Present
 
 **Key Achievements:**
-- Created dashboards using JIRA, Confluence, Trello, to track project progress Championed Agile methodologies, and resulted 25% improvement in project delivery times
-- Led Agile ceremonies, enhanced team's adherence to Scrum values, and boosted productivity by 20%
-- Drove the "GameArt" project, created top-tier casino games that increased company revenue by 15%
-- Optimized project monitoring using Atlassian tools to reduce tracking discrepancies by 30%
-- Pioneered the "POS-GAB" project and collaborated with Square System and NTSOFT USA to innovate in the Electronic Golf Cars domain
-- Facilitated inter-departmental strategic meetings that enhanced product-market fit by 40%
-- Cultivated a positive work environment and reduced team turnover rate by 50%
-- Trained 10+ Product Owners in Agile principles and led a more streamlined backlog process
-- Synchronized with Scrum Masters across teams and established a unified Agile approach
-- Implemented safeguards against distraction and ensured 95% on-time delivery rate for sprints
-
-
-  
-
+-	Spearhead the adoption of Agile methodologies across diverse departments, fostering execution and long-term support
+-	Collaborate with non-software development teams, particularly in Marketing, financial services and customer services to enhance relationships with existing Game Players 
+  and actively pursue new opportunities for market primacy
+Key Achievements:
+-	Engage with stakeholders and business partners, establishing functional relationships that consistently aligned project objectives with organizational goals, 
+  contributing to a 25% reduction in project delivery timelines
+-	Utilize rigorous data analysis, Statistics, and various frameworks to continually identify opportunities for process optimization, leading to a 30% improvement in team 
+  productivity, Team Collaboration
+-	Emphasize the critical importance of delivering a fully completed product at the conclusion of each Sprint, adhering rigorously to our definition of done. 
+-	Ensuring that each iteration meets and exceeds customer expectations and value, fostering satisfaction and trust in our deliverables.
 
 ## Case Studies
 
