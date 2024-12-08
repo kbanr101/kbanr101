@@ -47,8 +47,8 @@ I have over 8 years of experience in Scrum Master roles, working with cross-func
 ## Current Job
 
 ### Role: Senior Scrum Master
-- **Company:** ArenaNet LLC
-- **Duration:** Febuary 2022 - Present
+- **Company:** NTSOFT INC
+- **Duration:** Febuary 2018 - Present
 
 **Key Achievements:**
 -	Spearhead the adoption of Agile methodologies across diverse departments, fostering execution and long-term support
@@ -64,10 +64,18 @@ Key Achievements:
 
 ## Case Studies
 
+### Current Project
+- **Company:** NTSOFT INC
+- **Duration:** 6 months
+- **Role:** Technical Scrum Master
+
+- Facilitated cross-functional communication to address technical challenges, enabling the successful development of a cutting-edge AI model for real-time lip synchronization.
+- Supported team adoption of Agile tools like JIRA, improving tracking and reporting for sprints and overall project progress.
+
 ### Project 1: GameArt
 
-- **Company:** Amed Biotech
-- **Duration:** December 2015 - July 2019
+- **Company:** NTSOFT INC
+- **Duration:** 8 months
 - **Role:** Scrum Master
 
 **Key Achievements:**
@@ -79,8 +87,8 @@ Key Achievements:
 ### Project 2: POS_GAB
 
 - **Company:** Amed Biotech
-- **Duration:** March 2014 - Novenber 2015
-- **Role:** Junior Scrum Master
+- **Duration:** 6 Months
+- **Role:**  Scrum Master
 
 **Key Achievements:**
 
@@ -97,8 +105,8 @@ Key Achievements:
 
 **References:**
 
-- Arthur Lens, Product Owner @ ArenaNet LLC
-- Dominique Sinclaire @ ArenaNet LLC
+- Ahmed Ali, Machine Learning Engineer  @ NTSOFT INC
+- Rose Mary Kinyuy  @ NTSOFT INC
 - Patrick Zoe  @ Amed Biotech
 
 **languages and tools:**  
