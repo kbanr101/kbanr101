@@ -72,10 +72,25 @@ NTSOFT INC adopted the Agile framework (Scrum) for its processes, and in my role
 - Increased user engagement by 40% through targeted content marketing and social media campaigns.
 - Implemented advanced SEO tactics, resulting in a 25% boost in organic traffic.
 
-### Project 2: POS_GAB Product Launch
-- **Company:** Amed Biotech
-- **Duration:** 6 months
-- **Role:** SEO & Digital Marketing Manager
+### Technical Scrum Master  
+**Amed Biotech** | August 2010 – 2018  
+
+**Key Responsibilities:**  
+- Led cross-functional teams of developers and marketers, managing the project lifecycle from initial development to product marketing and customer satisfaction.  
+- Collaborated with stakeholders to gather requirements and ensure alignment with business goals.  
+- Facilitated communication between developers, marketers, and customers to incorporate feedback and improve product quality.  
+- Oversaw sprint planning, daily stand-ups, and retrospectives to maintain project momentum and ensure timely delivery.  
+- Focused on continuous learning and process improvement, ensuring high levels of team performance and customer satisfaction.  
+
+---
+
+### Project: POS_GAB Product Launch  
+**Amed Biotech** | 2010 – 2018  
+**Role:** Technical Scrum Master  
+
+- Launched a new POS product, achieving a 4.5-star rating on G2 within three months.  
+- Executed a multi-channel marketing strategy, increasing customer sign-ups by 50%.
+
 
 **Key Achievements:**
 - Launched a new POS product, achieving a 4.5-star rating on G2 within three months.
