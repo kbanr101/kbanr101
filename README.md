@@ -1,5 +1,10 @@
+<div align="left">
+  <img src="https://imgur.com/xsxHlba.png" alt="MTripleT Logo" width="80" align="right">
+</div>
+
 ### Rodrigue Ban – Founder & CEO @ MTripleT
 [![MTripleT.com](https://img.shields.io/badge/Visit-MTripleT.com-brightgreen)](https://www.mtriplet.com)
+[![Book a Free Consultation](https://img.shields.io/badge/Book-Free_Consultation-brightgreen)](https://calendar.app.google/KbnF2BCkpg2LqaLg7)
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1670752162627080192/1698632205/1080x360)
 
 <div align="center">
