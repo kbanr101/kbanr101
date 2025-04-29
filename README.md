@@ -1,5 +1,5 @@
-### Rodrigue Ban – Digital Strategist & Marketing Manager
-
+### Rodrigue Ban – Founder & CEO @ MTripleT
+[![MTripleT.com](https://img.shields.io/badge/Visit-MTripleT.com-brightgreen)](https://www.mtriplet.com)
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1670752162627080192/1698632205/1080x360)
 
 <div align="center">
@@ -7,94 +7,84 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
-# My Humble Portfolio
+# Empowering Entrepreneurs with Tech & Growth Solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2)](https://www.facebook.com/profile.php?id=61552699000536)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourtwitter)
 [![DataCamp](https://img.shields.io/badge/DataCamp-Profile-03EF62)](https://www.datacamp.com/portfolio/rodriguekameniban)
+[![Xing](https://img.shields.io/badge/Xing-Connect-006567)](https://www.xing.com/profile/yourxing)
 
-Hello! I'm Rodrigue Ban, a certified Scrum Master turned Digital Marketing Strategist with a passion for data-driven marketing, SEO, and Agile methodologies. I specialize in helping businesses grow their online presence, optimize marketing funnels, and improve ROI through strategic digital initiatives.
+Entrepreneur and founder of MTripleT.com, a service provider dedicated to empowering small to medium-sized businesses (SMBs) and startups with affordable and high-quality tech, marketing, and sales solutions. Passionate about driving innovation and building effective teams to develop impactful products, my expertise spans the full development lifecycle with a strong commitment to cost-effective and open-source strategies that optimize SMB operations. 
 
-## Skills
+## Core Services @ MTripleT.com
 
-| **Core Skills**            | **Advanced Skills**                        | **Technical Tools**             | **Communication Tools**         | **Languages**                 |
-|----------------------------|-------------------------------------------|---------------------------------|---------------------------------|-------------------------------|
-| - Agile Methodologies      | - Data Analytics & Reporting               | - PowerPoint                    | - Zoom                          | - French                      |
-| - Digital Strategy         | - Paid Social & Search Advertising         | - Outlook                       | - Skype                         | - English                     |
-| - SEO & Content Creation   | - Community & Influencer Management        | - Excel                         | - Slack                         |                               |
-| - Content Strategy         | - Conversion Rate Optimization (CRO)       | - SQL                           | - Google Meet                   |                               |
-| - Keyword Research         | - Email Marketing & Segmentation           | - GitHub                        | - Microsoft Teams               |                               |
-| - On-page & Off-page SEO   | - Google Analytics                         | - Git                           | - AWS                           |                               |
-| - Sales Funnel Management  | - List Building & CRM                      | - API Integration               | - Asana                         |                               |
-| - Campaign Performance     | - A/B Testing                              | - Conflict Resolution           | - Trello                        |                               |
+MTripleT offers three core services designed to meet the unique needs of entrepreneurs and small businesses:
 
-## Certifications and Education
-- **Certified Scrum Master (CSM)** | Scrum Alliance
-- **Google Ads & Analytics Certified**
-- **Bachelor of Science in Computer Science** | Portland Community College | 12/2024
-- **Bachelor of Arts in Business Administration & Management** | 10/2013
+* **Digital Services:** Affordable and high-quality web design, branding, app development, digital marketing (SEO, content, social media), and ERP installations.
+* **Sales-as-a-Service:** Helping businesses accelerate customer acquisition through a network of trained sales agents and effective sales strategies.
+* **Startup Studio Model:** Building businesses from the ground up, providing rapid market entry, strategic growth guidance, and the potential for scaling or acquisition.
 
-## Professional Summary
-I bring over 8 years of experience in digital marketing and project management, working across various industries to deliver successful campaigns and high-impact strategies. My expertise spans content marketing, SEO, paid advertising, and analytics. I excel at cross-functional collaboration, stakeholder engagement, and leading teams toward achieving measurable goals.
+## Skills & Expertise
+
+| **Core Skills (for SMB/Startup Needs)** | **Advanced Skills (Driving Growth & Efficiency)** | **Key Technical Tools (for Service Delivery)** | **Communication & Collaboration (Client & Team)** | **Languages** |
+| :-------------------------------------- | :---------------------------------------------- | :--------------------------------------------- | :---------------------------------------------- | :------------------ |
+| - Digital Strategy for SMBs             | - Data-Driven Marketing & Reporting              | - Website Development Platforms (e.g., WordPress) | - Zoom                                          | - French (Fluent)   |
+| - Affordable Web & Branding Solutions   | - Targeted Digital Advertising (Social & Search)   | - CRM Software (for SMBs)                       | - Slack                                         | - English (Fluent)  |
+| - SEO & Content Marketing for Lead Gen  | - Marketing Automation Implementation            | - Analytics Platforms (Google Analytics)        | - Microsoft Teams                               |                     |
+| - Social Media Management for Growth    | - Conversion Rate Optimization (CRO) for ROI     | - Project Management Tools (e.g., Asana, Trello)| - Email Communication (Outlook, Gmail)          |                     |
+| - E-commerce Setup & Optimization       | - Customer Relationship Management (CRM)         | - Basic ERP System Understanding              | - Client Communication Platforms                |                     |
+| - Startup Consulting & Guidance         | - Sales Process Development & Implementation     | - Presentation Software (PowerPoint, Google Slides)| - Team Collaboration Tools                      |                     |
+| - Project Management for Small Teams    | - Budgeting & Cost-Effective Solutions         | - Cloud Service Basics (for deployment)         | - Video Conferencing Etiquette                  |                     |
+| - Understanding SMB Pain Points         | - Performance Analysis & Iteration               | - Basic IT Troubleshooting                      | - Active Listening & Clear Communication      |                     |
+
+## Certifications & Education
+
+-   **Certified Scrum Master (CSM)** | Scrum Alliance
+-   **Google Ads & Analytics Certified**
+-   **Associate of Science in Computer Science** | Portland Community College | 12/2024
+-   **Bachelor of Arts in Business Administration & Management** | 10/2013
+
+## Professional Journey
+
+As the Founder & CEO of MTripleT.com, I leverage over 8 years of experience in digital marketing and project management to empower entrepreneurs and small businesses with tailored solutions. My background includes:
 
 ## Current Role
 
-### Role: Senior Digital Marketing Manager & Scrum Master
-- **Company:** NTSOFT INC
-- **Duration:** February 2018 – Present
+### Role: Founder & CEO
+- **Company:** MTripleT Corp
+- **Duration:** December 202023 – Present
 
-NTSOFT INC adopted the Agile framework (Scrum) for its processes, and in my role, I served as the Scrum Master, leading and collaborating with cross-functional teams, including marketing, design, development, and product management.
+Leading MTripleT in its mission to provide affordable and high-quality tech, marketing, and sales services to startups and small to medium-sized businesses. My responsibilities encompass strategic direction, business development, team leadership, and ensuring client success through innovative and cost-effective solutions.
 
 **Key Achievements:**
-- Developed and executed a comprehensive digital strategy that increased web traffic by 45% YoY.
-- Spearheaded SEO initiatives, improving organic search rankings and driving a 30% increase in lead generation.
-- Managed a $500k annual budget for paid social and search campaigns, achieving a 25% reduction in cost per acquisition.
-- Facilitated daily stand-ups, sprint planning, and retrospectives as part of the Scrum process, ensuring continuous improvement and high team morale.
-- Led a team of 10 marketers, designers, and developers, fostering collaboration and driving high performance.
+
+* **Develope and implementing MTripleT's core service offerings**, resulting in successful engagements with numerous SMBs and startups.
+* **Established a network of skilled professionals and sales agents** to deliver high-quality digital and sales-as-a-service solutions.
+* **Guide multiple startups through the initial phases of development and market entry** under the Startup Studio model.
+* **Cultivate strong client relationships** based on trust, affordability, and effective communication, leading to high satisfaction rates.
+* **Drive the adoption of cost-effective and open-source technologies** to provide accessible solutions for budget-conscious businesses.
 
 ## Case Studies
 
-### Current Project: AI-driven Marketing Insights Platform
-- **Company:** NTSOFT INC
+### Current Project: App Based service in Shoe Care Industry
+- **Project Name:** Rehab My Sole
+- **Duration:** 9 months
+- **Website:** [![Rehab My Sole](https://img.shields.io/badge/Visit-Rehab_My_sole-brightgreen)](https://www.rehabmysole.com)
+
+Rehab My Sole is an innovative platform specializing in professional shoe cleaning, repair, and restoration services. It allows customers to easily upload pictures of their damaged or worn-out shoes, receive instant repair quotes powered by AI, and schedule pickup or delivery.
+The goal is to extend the life of footwear, promote sustainability, and offer a convenient, affordable alternative to buying new shoes.
+Whether it's luxury brands, work boots, sneakers, or everyday wear, Rehab My Sole brings expert craftsmanship and modern technology together to revive customers' favorite pairs — saving money and reducing waste.
+
+
+### Project 2 : Internations Car Sourcing Platform
+- **Company:** Gloube Auto
 - **Duration:** 6 months
-- **Role:** Digital Marketing Strategist
-
-- Led the digital launch strategy for an AI-based marketing insights platform, resulting in a 20% increase in client acquisition.
-- Collaborated with product and technical teams to align messaging and positioning.
-
-### Project 1: GameArt Campaign
-- **Company:** NTSOFT INC
-- **Duration:** 8 months
-- **Role:** Digital Marketing Manager
-
-**Key Achievements:**
-- Increased user engagement by 40% through targeted content marketing and social media campaigns.
-- Implemented advanced SEO tactics, resulting in a 25% boost in organic traffic.
-
-### Technical Scrum Master  
-**Amed Biotech** | August 2010 – 2018  
-
-**Key Responsibilities:**  
-- Led cross-functional teams of developers and marketers, managing the project lifecycle from initial development to product marketing and customer satisfaction.  
-- Collaborated with stakeholders to gather requirements and ensure alignment with business goals.  
-- Facilitated communication between developers, marketers, and customers to incorporate feedback and improve product quality.  
-- Oversaw sprint planning, daily stand-ups, and retrospectives to maintain project momentum and ensure timely delivery.  
-- Focused on continuous learning and process improvement, ensuring high levels of team performance and customer satisfaction.  
-
----
-
-### Project: POS_GAB Product Launch  
-**Amed Biotech** | 2010 – 2018  
-**Role:** Technical Scrum Master  
-
-- Launched a new POS product, achieving a 4.5-star rating on G2 within three months.  
-- Executed a multi-channel marketing strategy, increasing customer sign-ups by 50%.
+- **website:** [![Gloube Auto](https://img.shields.io/badge/Visit-Gloube_Auto-brightgreen)](https://www.gloubeauto.com)
+  
+Gloube Auto is Revolutionizing international car sourcing. Our platform, powered by MTripleT, enables efficient sourcing from any global market and seamless delivery to clients anywhere. Experience a new era of worldwide auto acquisition with our expert agency.
 
 
-**Key Achievements:**
-- Launched a new POS product, achieving a 4.5-star rating on G2 within three months.
-- Executed a multi-channel marketing strategy, resulting in a 50% increase in customer sign-ups.
 
 ## Blog Posts and Articles
 
