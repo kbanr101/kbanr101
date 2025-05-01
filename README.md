@@ -26,49 +26,12 @@ Entrepreneur and founder of MTripleT.com, a service provider dedicated to empowe
 
 MTripleT offers three core services designed to meet the unique needs of entrepreneurs and small businesses:
 
-* **Digital Services:** Affordable and high-quality web design, branding, app development, digital marketing (SEO, content, social media), and ERP installations.
-* **Sales-as-a-Service:** Helping businesses accelerate customer acquisition through a network of trained sales agents and effective sales strategies.
-* **Startup Studio Model:** Building businesses from the ground up, providing rapid market entry, strategic growth guidance, and the potential for scaling or acquisition.
+* **Custom ERP & AI Platforms:** Integrate your business processes into one intelligent, automated dashboard.
+* **Web & App Development:** From landing pages to full-scale platforms—tailored to your goals.
+* **Branding & Creative Services:** Logos, identity kits, packaging & marketing visuals to elevate your presence.
+* **Marketing & Content:** From social media management to SEO and targeted ad campaigns—we’ve got it covered.
+* **Smart Business Automation (IoT-Inspired Logic):** We design intelligent systems that connect business tools—like scheduling, invoicing, and CRM—into one seamless workflow.
 
-## Skills & Expertise
-
-| **Core Skills (for SMB/Startup Needs)** | **Advanced Skills (Driving Growth & Efficiency)** | **Key Technical Tools (for Service Delivery)** | **Communication & Collaboration (Client & Team)** | **Languages** |
-| :-------------------------------------- | :---------------------------------------------- | :--------------------------------------------- | :---------------------------------------------- | :------------------ |
-| - Digital Strategy for SMBs             | - Data-Driven Marketing & Reporting              | - Website Development Platforms (e.g., WordPress) | - Zoom                                          | - French (Fluent)   |
-| - Affordable Web & Branding Solutions   | - Targeted Digital Advertising (Social & Search)   | - CRM Software (for SMBs)                       | - Slack                                         | - English (Fluent)  |
-| - SEO & Content Marketing for Lead Gen  | - Marketing Automation Implementation            | - Analytics Platforms (Google Analytics)        | - Microsoft Teams                               |                     |
-| - Social Media Management for Growth    | - Conversion Rate Optimization (CRO) for ROI     | - Project Management Tools (e.g., Asana, Trello)| - Email Communication (Outlook, Gmail)          |                     |
-| - E-commerce Setup & Optimization       | - Customer Relationship Management (CRM)         | - Basic ERP System Understanding              | - Client Communication Platforms                |                     |
-| - Startup Consulting & Guidance         | - Sales Process Development & Implementation     | - Presentation Software (PowerPoint, Google Slides)| - Team Collaboration Tools                      |                     |
-| - Project Management for Small Teams    | - Budgeting & Cost-Effective Solutions         | - Cloud Service Basics (for deployment)         | - Video Conferencing Etiquette                  |                     |
-| - Understanding SMB Pain Points         | - Performance Analysis & Iteration               | - Basic IT Troubleshooting                      | - Active Listening & Clear Communication      |                     |
-
-## Certifications & Education
-
--   **Certified Scrum Master (CSM)** | Scrum Alliance
--   **Google Ads & Analytics Certified**
--   **Associate of Science in Computer Science** | Portland Community College | 12/2024
--   **Bachelor of Arts in Business Administration & Management** | 10/2013
-
-## Professional Journey
-
-As the Founder & CEO of MTripleT.com, I leverage over 8 years of experience in digital marketing and project management to empower entrepreneurs and small businesses with tailored solutions. My background includes:
-
-## Current Role
-
-### Role: Founder & CEO
-- **Company:** MTripleT Corp
-- **Duration:** December 202023 – Present
-
-Leading MTripleT in its mission to provide affordable and high-quality tech, marketing, and sales services to startups and small to medium-sized businesses. My responsibilities encompass strategic direction, business development, team leadership, and ensuring client success through innovative and cost-effective solutions.
-
-**Key Achievements:**
-
-* **Develope and implementing MTripleT's core service offerings**, resulting in successful engagements with numerous SMBs and startups.
-* **Established a network of skilled professionals and sales agents** to deliver high-quality digital and sales-as-a-service solutions.
-* **Guide multiple startups through the initial phases of development and market entry** under the Startup Studio model.
-* **Cultivate strong client relationships** based on trust, affordability, and effective communication, leading to high satisfaction rates.
-* **Drive the adoption of cost-effective and open-source technologies** to provide accessible solutions for budget-conscious businesses.
 
 ## Case Studies
 
